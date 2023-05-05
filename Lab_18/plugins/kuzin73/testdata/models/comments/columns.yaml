@@ -1,0 +1,16 @@
+columns:
+    id:
+        label: id
+        type: number
+    comment:
+        label: comment
+        type: text
+    created_at:
+        label: created_at
+        type: datetime
+    name:
+        label: name
+        type: text
+    updated_at:
+        label: updated_at
+        type: datetime

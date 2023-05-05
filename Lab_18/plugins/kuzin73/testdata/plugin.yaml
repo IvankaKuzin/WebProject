@@ -1,0 +1,15 @@
+plugin:
+    name: 'kuzin73.testdata::lang.plugin.name'
+    description: 'kuzin73.testdata::lang.plugin.description'
+    author: Kuzin73
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: News
+        url: kuzin73/testdata/news
+        icon: icon-newspaper-o
+    main-menu-item2:
+        label: Comments
+        url: kuzin73/testdata/comments
+        icon: icon-comments

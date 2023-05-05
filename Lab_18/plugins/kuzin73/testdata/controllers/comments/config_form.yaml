@@ -1,0 +1,10 @@
+name: Comments
+form: $/kuzin73/testdata/models/comments/fields.yaml
+modelClass: Kuzin73\Testdata\Models\Comments
+defaultRedirect: kuzin73/testdata/comments
+create:
+    redirect: 'kuzin73/testdata/comments/update/:id'
+    redirectClose: kuzin73/testdata/comments
+update:
+    redirect: kuzin73/testdata/comments
+    redirectClose: kuzin73/testdata/comments

@@ -1,0 +1,19 @@
+fields:
+    name:
+        label: Name
+        size: ''
+        span: full
+        type: textarea
+    comment:
+        label: Comment
+        span: full
+        type: text
+    image:
+        label: 'File upload'
+        mode: file
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload

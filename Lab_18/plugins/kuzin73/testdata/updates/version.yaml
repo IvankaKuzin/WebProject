@@ -1,0 +1,23 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table kuzin73_testdata_news'
+    - builder_table_create_kuzin73_testdata.php
+1.0.3:
+    - 'Drop table kuzin73_testdata_'
+    - builder_table_delete_kuzin73_testdata_.php
+1.0.4:
+    - 'Created table kuzin73_testdata_comments'
+    - builder_table_create_kuzin73_testdata_comments.php
+1.0.5:
+    - 'Drop table kuzin73_testdata_comments'
+    - builder_table_delete_kuzin73_testdata_comments.php
+1.0.6:
+    - 'Created table kuzin73_testdata_comments'
+    - builder_table_create_kuzin73_testdata_comments_2.php
+1.0.7:
+    - 'Updated table kuzin73_testdata_comments'
+    - builder_table_update_kuzin73_testdata_comments.php
+1.0.8:
+    - 'Updated table kuzin73_testdata_comments'
+    - builder_table_update_kuzin73_testdata_comments_2.php

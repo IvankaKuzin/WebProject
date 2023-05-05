@@ -1,0 +1,12 @@
+list: $/kuzin73/testdata/models/news/columns.yaml
+modelClass: Kuzin73\Testdata\Models\News
+title: News
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'kuzin73/testdata/news/update/:id'

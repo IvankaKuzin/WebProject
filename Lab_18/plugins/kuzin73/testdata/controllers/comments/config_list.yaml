@@ -1,0 +1,12 @@
+title: Comments
+modelClass: Kuzin73\Testdata\Models\Comments
+list: $/kuzin73/testdata/models/comments/columns.yaml
+recordUrl: 'kuzin73/testdata/comments/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: 20
+showSetup: true
+showCheckboxes: true
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

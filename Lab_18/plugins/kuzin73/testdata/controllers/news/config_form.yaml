@@ -1,0 +1,10 @@
+name: News
+form: $/kuzin73/testdata/models/news/fields.yaml
+modelClass: Kuzin73\Testdata\Models\News
+defaultRedirect: kuzin73/testdata/news
+create:
+    redirect: 'kuzin73/testdata/news/update/:id'
+    redirectClose: kuzin73/testdata/news
+update:
+    redirect: kuzin73/testdata/news
+    redirectClose: kuzin73/testdata/news
